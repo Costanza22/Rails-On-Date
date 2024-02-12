@@ -10,4 +10,4 @@ va-feature).
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
 
-![Uploading image.png…]()
+<img src="https://www.tribunapr.com.br/wp-content/uploads/2021/06/14104322/trem-nova-ferroeste-1-970x550.jpg">
