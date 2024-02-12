@@ -9,3 +9,5 @@ Autenticação de Usuários: Os usuários podem se autenticar para acessar recur
 va-feature).
 
 Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE para obter detalhes.
+
+![Uploading image.png…]()
